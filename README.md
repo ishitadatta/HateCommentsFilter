@@ -8,7 +8,7 @@ This project was created as part of the hackathon - Hashcode by Microsoft Innova
 Hate speech is currently of broad and current interest in the domain of social media. The anonymity and flexibility afforded by the Internet has made it easy for users to communicate in an aggressive manner. And as the amount of online hate speech is increasing, methods that automatically detect hate speech is very much required.  In order to create a hate-speech-detecting algorithm, we have used Python-based NLP machine learning techniques. We collected data (say, the data from a social media site that may have comments / tweets) and trained it. For data collection, we used web crawling. Using the beautifulsoup library , we collected the comments of popular posts on a website. 
 
 ## Twitter analysis
-For sentiment analysis on tweets we have used Tweepy and making use of twittter credentials to access keys and api and achieved the following details:
+For sentiment analysis on tweets we have used Tweepy by making use of twittter credentials to access keys and api and achieved the following details:
 * Streaming Tweets
 * Accessing published tweets by pagination
 * Analyzing Twitter data
